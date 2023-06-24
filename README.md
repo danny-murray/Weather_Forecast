@@ -12,6 +12,7 @@ A simple weather forecast app built using Python and Tkinter. Retrieves weather 
 - Python 3.x
 - 'requests' library
 - Tkinter (usually included with Python installations)
+- subdirectory "themes"
 
 ## Installation
 1. Clone the repository:
